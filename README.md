@@ -11,6 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/75462686/131258072-e0f17cf3-da64-4d3e-8ed3-b8fe7b5fd373.png)
 
+# You can filter rooms 
+
 ![image](https://user-images.githubusercontent.com/75462686/131258094-c15fabe5-52dd-421f-a40a-07d68ef7ddf1.png)
 
 ![image](https://user-images.githubusercontent.com/75462686/131258129-80360c31-d29d-4e32-8dc0-1abd3caedd25.png)
