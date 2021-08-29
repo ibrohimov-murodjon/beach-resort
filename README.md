@@ -1,9 +1,13 @@
 # These are the images of the this project
+
+# Home page
 ![image](https://user-images.githubusercontent.com/75462686/131257849-f033a065-38e7-4872-ad16-3f4059fe1f68.png)
 
 ![image](https://user-images.githubusercontent.com/75462686/131258035-559786dd-fd97-4b5e-a7a8-f10a9904855e.png)
 
 ![image](https://user-images.githubusercontent.com/75462686/131258048-3c3ef395-454b-408d-84c7-b8eb554160fd.png)
+
+# Rooms
 
 ![image](https://user-images.githubusercontent.com/75462686/131258072-e0f17cf3-da64-4d3e-8ed3-b8fe7b5fd373.png)
 
