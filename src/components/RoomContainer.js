@@ -1,5 +1,4 @@
 import React from "react";
-import { RoomContext } from "../context.js";
 import RoomFilter from "./RoomFilter.js";
 import RoomList from "./RoomList.js";
 import { withRoomConsumer } from "../context.js";
