@@ -20,7 +20,7 @@ body {
   padding-top: 66px;
   color: var(--mainBlack);
   background: var(--mainWhite);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Murecho", sans-serif;
   line-height: 1.4;
 }
 h1 {
@@ -352,7 +352,6 @@ h6 {
   transform: translate(-50%, -50%) scale(1);
 }
 .room-info {
-  background: var(--darkGrey);
   text-transform: capitalize;
   padding: 0.5rem 0;
   text-align: center;
@@ -490,10 +489,9 @@ h6 {
 }
 .size-input {
   width: 40%;
-  padding: 0.2rem;
+  padding: 0.2rem !important;
   border: 1px solid var(--mainBlack);
-  border-radius: 0.3rem;
-  margin-right: 0.3rem;
+  margin-right: 1rem !important;
 }
 .single-extra label {
   display: inline-block;
