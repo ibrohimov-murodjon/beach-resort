@@ -12,6 +12,7 @@
     "axios": "^0.21.4",
     "bootstrap": "^4.6.1",
     "contentful": "^8.5.8",
+    "json-schema": "^0.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
